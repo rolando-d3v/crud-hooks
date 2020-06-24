@@ -13,6 +13,7 @@ function Navigation() {
           <Link className="nav-link"  to="/contador">Contador</Link>
           <Link className="nav-link"  to="/crudhooks">Crud Hooks</Link>
           <Link className="nav-link"  to="/crudhooks2">Crud 2</Link>
+          <Link className="nav-link"  to="/crudhooks3">Crud 3</Link>
         </Nav>
        
       </Navbar.Collapse>
